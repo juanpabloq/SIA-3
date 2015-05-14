@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Documento sin título</title>
+</head>
+<script>
+
+function mayor1(x1,x2){
+	if (x1>x2){
+		return x1;
+	}
+	else{
+		return x2;
+	}
+}
+function menor1(x1,x2){
+	if (x1>x2){
+		return x2;
+	}
+	else{
+		return x1;
+	}
+}
+
+function menor(x1,x2,x3){
+	var menor=menor1(x1,x2);
+	menor=menor1(menor,x3);
+	return menor;
+	}
+
+function mayor(x1,x2,x3){
+	var mayor=mayor1(x1,x2);
+	mayor=mayor1(mayor,x3);
+	return mayor;
+}
+
+function medio(x1,x2,x3){
+	var menor;
+	
+	
+}
+
+
+var x1=0; 
+var x2=0; 
+var x3=0;
+x1=prompt("ingresa un numero: ","");
+x2=prompt("ingresa un numero: ","");
+x3=prompt("ingresa un numero: ","");
+
+alert(mayor(x1,x2,x3) + " " + menor(x1,x2,x3));
+
+</script>
+
+<body>
+</body>
+</html>
