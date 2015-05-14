@@ -1,1 +1,2 @@
 d:\documentos\visual studio 2013\Projects\CosasSIA3\CosasSIA3\bin\Debug\CosasSIA3.exe.config
+D:\Escritorio\SIA3\trunk\CosasSIA3\CosasSIA3\bin\Debug\CosasSIA3.exe.config
