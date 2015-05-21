@@ -1,2 +1,15 @@
 d:\documentos\visual studio 2013\Projects\CosasSIA3\CosasSIA3\bin\Debug\CosasSIA3.exe.config
 D:\Escritorio\SIA3\trunk\CosasSIA3\CosasSIA3\bin\Debug\CosasSIA3.exe.config
+C:\Users\Andurra\Desktop\SIA-3\trunk\CosasSIA3\CosasSIA3\bin\Debug\CosasSIA3.exe.config
+C:\Users\Andurra\Desktop\SIA-3\trunk\CosasSIA3\CosasSIA3\bin\Debug\CosasSIA3.exe
+C:\Users\Andurra\Desktop\SIA-3\trunk\CosasSIA3\CosasSIA3\bin\Debug\CosasSIA3.pdb
+C:\Users\Andurra\Desktop\SIA-3\trunk\CosasSIA3\CosasSIA3\obj\Debug\CosasSIA3.csprojResolveAssemblyReference.cache
+C:\Users\Andurra\Desktop\SIA-3\trunk\CosasSIA3\CosasSIA3\obj\Debug\MainWindow.baml
+C:\Users\Andurra\Desktop\SIA-3\trunk\CosasSIA3\CosasSIA3\obj\Debug\MainWindow.g.cs
+C:\Users\Andurra\Desktop\SIA-3\trunk\CosasSIA3\CosasSIA3\obj\Debug\App.g.cs
+C:\Users\Andurra\Desktop\SIA-3\trunk\CosasSIA3\CosasSIA3\obj\Debug\CosasSIA3_MarkupCompile.cache
+C:\Users\Andurra\Desktop\SIA-3\trunk\CosasSIA3\CosasSIA3\obj\Debug\CosasSIA3.g.resources
+C:\Users\Andurra\Desktop\SIA-3\trunk\CosasSIA3\CosasSIA3\obj\Debug\CosasSIA3.Properties.Resources.resources
+C:\Users\Andurra\Desktop\SIA-3\trunk\CosasSIA3\CosasSIA3\obj\Debug\CosasSIA3.csproj.GenerateResource.Cache
+C:\Users\Andurra\Desktop\SIA-3\trunk\CosasSIA3\CosasSIA3\obj\Debug\CosasSIA3.exe
+C:\Users\Andurra\Desktop\SIA-3\trunk\CosasSIA3\CosasSIA3\obj\Debug\CosasSIA3.pdb
